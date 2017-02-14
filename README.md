@@ -1,0 +1,2 @@
+# Lembaga-Kesehatan-Masyarakat
+Information system for public health Agencies that manage Business processes and set up a role for each user, ranging from patients who set the queue and the direction of the doctor, officer in arranging drug, drug stock settings and recording all log events and transactions, and to doctors in selecting patients and provide recommendations to remedy the doctor associated with the patient's disease
